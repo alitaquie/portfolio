@@ -22,7 +22,7 @@ nav {
     width: 2.5rem;
     height: 2.5rem;
     
-    /* border-radius: 50%; circular profile logo*/
+     border-radius: 50%; 
     overflow: hidden;
 }
 
